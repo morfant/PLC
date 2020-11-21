@@ -2,3 +2,13 @@ body {
 //  background-image: url("/img/logo.png");
 //  background-color: #cccccc;
 }
+
+
+.bgimg {
+    border: 0;
+    padding: 0; 
+    background-image: url('/img.png');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
